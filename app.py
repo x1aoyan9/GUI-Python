@@ -2,6 +2,8 @@
 # https://youtu.be/D8-snVfekto (Keith Galli - Python Tkinter GUI tutorial)
 # https://youtu.be/DtnWDPr12NM (Python Modern GUI - flat style desktop application)
 
+# https://docs.python.org/3/library/tkinter.html (TKinter documentation)
+
 import tkinter as tk
 from tkinter import filedialog, Text
 import os
